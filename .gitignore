@@ -1,0 +1,21 @@
+# Environment & Credentials
+.env
+*.token
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# Database files
+*.db-journal
+*.sqlite3-journal
+
+# Logs & Temp
+*.log
+.DS_Store
